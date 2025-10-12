@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "nama": "Caffe Latte",
+    "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffe latte is simply a shot or two of bold espresso with fresh, sweet steamed milk over it.",
+    "harga": "25000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/45/Caff%C3%A8_Latte_macchiato.jpg"
+  },
+  {
+    "id": "2",
+    "nama": "Cappuccino",
+    "deskripsi": "Espresso with steamed milk, topped with a deep layer of foam.",
+    "harga": "28000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cappuccino_at_Sightglass_Coffee.jpg"
+  },
+  {
+    "id": "3",
+    "nama": "Caffe Mocha",
+    "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream.",
+    "harga": "30000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mocaccino-Coffee.jpg"
+  },
+  {
+    "id": "4",
+    "nama": "Caramel Macchiato",
+    "deskripsi": "Espresso combined with vanilla-flavored syrup, milk, and caramel drizzle for a sweet treat.",
+    "harga": "32000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Caramel_Macchiato_at_So_Good_Coffee_Co.jpg"
+  },
+  {
+    "id": "5",
+    "nama": "Vanilla Sweet Cream Cold Brew",
+    "deskripsi": "Cold brew coffee topped with house-made vanilla sweet cream for a smooth, creamy finish.",
+    "harga": "35000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cold_Brew_Coffee_in_Tumbler.jpg"
+  }
+]

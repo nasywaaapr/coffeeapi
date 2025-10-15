@@ -2,7 +2,7 @@
   {
     "id": "1",
     "nama": "Rasberry Currant Frappucino",
-    "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffe latte is simply a shot or two of bold espresso with fresh, sweet steamed milk over it.",
+    "deskripsi": "A refreshing blend of raspberry and currant syrup mixed with creamy milk and ice, perfect for a sweet and tangy indulgence.",
     "harga": "25000",
     "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1zSrO9xItTJUhaGUO8lk-SnNDeD30h0o_",
     "gambarPoster": "https://drive.google.com/uc?export=view&id=1T8n1keNRvaWWpkcWCxkcarPskV5yHCIX"
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "nama": "Mocca Frappuccino",
-    "deskripsi": "Espresso with steamed milk, topped with a deep layer of foam.",
+    "deskripsi": "A delicious mix of espresso, chocolate, and milk blended with ice for a rich, mocha-flavored coffee experience.",
     "harga": "28000",
     "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1Mj4J3JLjl3kkdJzP0rn23iYKsJ_BBRe-",
     "gambarPoster": "https://drive.google.com/uc?export=view&id=1Bj33kEo-_y5WHeAPJG_WMz2QUjeW7VFs"
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "nama": "Caffe Mocha",
-    "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream.",
+    "deskripsi": "A smooth espresso combined with bittersweet mocha sauce and steamed milk, topped with whipped cream for a creamy delight.",
     "harga": "30000",
     "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1jz9JKcW3-vCONjctYlB2R452CSx6IFef",
     "gambarPoster": "https://drive.google.com/uc?export=view&id=1fr1otQ8NsSKeNDyd1sBzcK-9D6MJX6LP"
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "nama": "Caramel Macchiato",
-    "deskripsi": "Espresso combined with vanilla-flavored syrup, milk, and caramel drizzle for a sweet treat.",
+    "deskripsi": "A signature espresso drink layered with vanilla syrup, steamed milk, and finished with a drizzle of buttery caramel.",
     "harga": "32000",
     "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1NFllmHhmUAyu7ILn9I1YFpNnOpMs7oEg",
     "gambarPoster": "https://drive.google.com/uc?export=view&id=1S9RH-al1WH67r2Mo-hSKaaVBa0ZIVR-E"
@@ -34,9 +34,49 @@
   {
     "id": "5",
     "nama": "Vanilla Sweet Cream Cold Brew",
-    "deskripsi": "Cold brew coffee topped with house-made vanilla sweet cream for a smooth, creamy finish.",
+    "deskripsi": "Slow-steeped cold brew coffee topped with house-made vanilla sweet cream for a smooth, naturally sweet flavor.",
     "harga": "35000",
     "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1-XT_n8k9CCdbYtKypWlARWv7HptJ9jON",
     "gambarPoster": "https://drive.google.com/uc?export=view&id=1MgGju9N0SiU11Us1vX4vdDKbC8cYOvuM"
+  },
+  {
+    "id": "6",
+    "nama": "Mango Passion Frappucino",
+    "deskripsi": "A tropical blend of mango and passion fruit puree mixed with milk and ice for a sweet, fruity, and refreshing drink.",
+    "harga": "30000",
+    "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1f5OCZ5Hnyi-ax5RGb4dT5v9loX2wXgOC",
+    "gambarPoster": "https://drive.google.com/uc?export=view&id=1r5C3oFGMt-4xi6EbI7Mci4nHm-Q8iSpR"
+  },
+  {
+    "id": "7",
+    "nama": "Coffee Frappucino",
+    "deskripsi": "A classic coffee-based Frappuccino with rich espresso flavor blended with milk and ice, topped with smooth whipped cream.",
+    "harga": "38000",
+    "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1eFR_VQ9D44USwh08NW_jkq1j651sBajr",
+    "gambarPoster": "https://drive.google.com/uc?export=view&id=1mdVY3nwHrlJ1nEPYo_UmtvHQARrSjkli"
+  },
+  {
+    "id": "8",
+    "nama": "Cappuccino",
+    "deskripsi": "A warm espresso drink topped with steamed milk and a thick layer of frothy foam for a rich, velvety texture.",
+    "harga": "33000",
+    "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1gDI3Uv-FGSZejFTAGkyUiubfNlCDmkE5",
+    "gambarPoster": "https://drive.google.com/uc?export=view&id=1pCoOBExiyxekG-xbJE2yM9Qh4bmk_mCA"
+  },
+  {
+    "id": "9",
+    "nama": "Cold Brew",
+    "deskripsi": "A slow-steeped cold brew coffee with a naturally smooth and bold flavor, served over ice for a refreshing finish.",
+    "harga": "25000",
+    "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1WkAfn-7nrQidYEg5uDGEgIa4RJ48x5lf",
+    "gambarPoster": "https://drive.google.com/uc?export=view&id=1jIvig6dfOF9t-y7bGBZ2vq-fVveQ_jok"
+  },
+  {
+    "id": "10",
+    "nama": "Caffe Latte",
+    "deskripsi": "A smooth and creamy espresso drink made with steamed milk and a light layer of foam on top.",
+    "harga": "40000",
+    "gambarthumbnail": "https://drive.google.com/uc?export=view&id=1Ulamvym20eZU9hYDSzlILJ_wGGluwoCo",
+    "gambarPoster": "https://drive.google.com/uc?export=view&id=1T58jq7fVbA-4CRxOOlPYynz4gqwGMTTF"
   }
 ]

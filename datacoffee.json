@@ -1,37 +1,42 @@
 [
   {
     "id": "1",
-    "nama": "Caffe Latte",
+    "nama": "Rasberry Currant Frappucino",
     "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffe latte is simply a shot or two of bold espresso with fresh, sweet steamed milk over it.",
     "harga": "25000",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/45/Caff%C3%A8_Latte_macchiato.jpg"
+    "gambarthumbnail": "https://drive.google.com/file/d/1zSrO9xItTJUhaGUO8lk-SnNDeD30h0o_/view?usp=drive_link"
+    "gambarPoster": "https://drive.google.com/file/d/1T8n1keNRvaWWpkcWCxkcarPskV5yHCIX/view?usp=drive_link"
   },
   {
     "id": "2",
-    "nama": "Cappuccino",
+    "nama": "Mocca Frappuccino",
     "deskripsi": "Espresso with steamed milk, topped with a deep layer of foam.",
     "harga": "28000",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cappuccino_at_Sightglass_Coffee.jpg"
+    "gambarthumbnail": "https://drive.google.com/file/d/1Mj4J3JLjl3kkdJzP0rn23iYKsJ_BBRe-/view?usp=drive_link"
+    "gambarPoster": "https://drive.google.com/file/d/1Bj33kEo-_y5WHeAPJG_WMz2QUjeW7VFs/view?usp=drive_link"
   },
   {
     "id": "3",
     "nama": "Caffe Mocha",
     "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream.",
     "harga": "30000",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mocaccino-Coffee.jpg"
+    "gambarthumbnail": "https://drive.google.com/file/d/1jz9JKcW3-vCONjctYlB2R452CSx6IFef/view?usp=drive_link"
+    "gambarPoster": "https://drive.google.com/file/d/1fr1otQ8NsSKeNDyd1sBzcK-9D6MJX6LP/view?usp=drive_link"
   },
   {
     "id": "4",
     "nama": "Caramel Macchiato",
     "deskripsi": "Espresso combined with vanilla-flavored syrup, milk, and caramel drizzle for a sweet treat.",
     "harga": "32000",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Caramel_Macchiato_at_So_Good_Coffee_Co.jpg"
+    "gambarthumbnail": "https://drive.google.com/file/d/1NFllmHhmUAyu7ILn9I1YFpNnOpMs7oEg/view?usp=drive_link"
+    "gambarPoster": "https://drive.google.com/file/d/1S9RH-al1WH67r2Mo-hSKaaVBa0ZIVR-E/view?usp=drive_link"
   },
   {
     "id": "5",
     "nama": "Vanilla Sweet Cream Cold Brew",
     "deskripsi": "Cold brew coffee topped with house-made vanilla sweet cream for a smooth, creamy finish.",
     "harga": "35000",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cold_Brew_Coffee_in_Tumbler.jpg"
+    "gambarthumbnail": "https://drive.google.com/file/d/1-XT_n8k9CCdbYtKypWlARWv7HptJ9jON/view?usp=drive_link"
+    "gambarPoster": "https://drive.google.com/file/d/1MgGju9N0SiU11Us1vX4vdDKbC8cYOvuM/view?usp=drive_link"
   }
 ]
